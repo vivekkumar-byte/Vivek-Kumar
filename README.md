@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## About Me
+My Name is Vivek Kumar. Here is a picture of me:
 
-You can use the [editor on GitHub](https://github.com/vivekkumar-byte/Vivek-Kumar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](https://lh3.googleusercontent.com/-pDFsDgLTSQc/XuFuO4ZlCdI/AAAAAAAASUM/lyfyIhPRyk0ZxyNkSR_gN4gLz5Qe6ahiACK8BGAsYHg/s0/2020-06-10.png)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Social Media
+Here are the links to my social media accounts: 
+ [Instagram](https://www.instagram.com/_vivekkumar/?hl=en), [Facebook](https://m.facebook.com/profile.php?id=100030428689685), and [Tik Tok](https://www.tiktok.com/@vivek13977?lang=en)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Social Media
+- Was the captain of the varsity tennis team (played all four years of high school)
+- Was a secretary in political science club
+- Volunteered at the library for all four years of high school (planned events for young kids to engage them in community activities)
+- Journal Entry for 4/24: I continued working on my code for the application and adjusted the screen displays by adding more pictures and making it more user friendly.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vivekkumar-byte/Vivek-Kumar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
