@@ -12,7 +12,7 @@ Here are the links to my social media accounts:
 
 
 
-## Social Media
+## Brag Sheet
 - Was the captain of the varsity tennis team (played all four years of high school)
 - Was a secretary in political science club
 - Volunteered at the library for all four years of high school (planned events for young kids to engage them in community activities)
